@@ -91,7 +91,16 @@ case "$EVENT" in
     fi
 
     if [[ "$COMMENT_IS_ACCEPTANCE" == true ]]; then
-      scripts/self-nomination.sh "$commenterEmail" "$COMMENTER_LOGIN"
+      getNominee
+      if test "$nomineeHandle" = "$COMMENTER_LOGIN"; then
+        scripts/self-nomination.sh "$commenterEmail" "$COMMENTER_LOGIN"
+      else
+        gh api \
+          --method POST \
+          "/repos/$REPOSITORY/issues/$PR_NUMBER/comments" \
+          -F "body=@-" <<< \
+          "The commenter $COMMENTER_LOGIN is not $nomineeHandle; not a nomination acceptance"
+      fi
     elif [[ "$COMMENT_IS_ENDORSEMENT" == true ]]; then
       ENDORSER_ID="$COMMENTER_ID" ENDORSER_LOGIN="$COMMENTER_LOGIN" scripts/endorse.sh
     fi
