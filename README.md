@@ -1,4 +1,4 @@
-NixCon SC election 2025
+Nix SC election 2025
 =======================
 
 ## Who can vote?
@@ -38,7 +38,7 @@ Please read the linked documentation for in-depth descriptions of the process.
 
 ## How to ask questions of candidates and nominees
 
-Any eligible voter can [create an issue using the Candidate Question template](https://github.com/nixcon/SC-election-2025/issues/new?template=candidate-question.yml).
+Any eligible voter can [create an issue using the Candidate Question template](https://github.com/nixos/SC-election-2025/issues/new?template=candidate-question.yml).
 
 Note that nominees can answer questions even before they have received sufficient endorsements to become candidates.
 
