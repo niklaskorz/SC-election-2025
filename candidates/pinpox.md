@@ -1,8 +1,8 @@
-Name: pinpox
-GitHub handle: pinpox
-Email address: nixsc@pablo.tools
-Discourse handle (optional): pinpox
-Matrix handle (optional): @pinpox:matrix.org
+* Name: pinpox
+* GitHub handle: pinpox
+* Email address: nixsc@pablo.tools
+* Discourse handle (optional): pinpox
+* Matrix handle (optional): @pinpox:matrix.org
 
 Conflict of interest disclosure
 
