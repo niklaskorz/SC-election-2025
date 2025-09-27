@@ -25,6 +25,20 @@ pillars of NixOS and Nix with as little hurdles as possible, we need a
 stable, decisive NixOS Foundation. That is a cause to which I would
 happily contribute my time and resources.
 
+I've been the administrator of a regional Mastodon instance for three
+and a half years now, that I successfully transferred into community
+governance of a regional non-profit association in 2024. I still partake
+in the moderation and administrative decisions of it, but with 3500 users,
+700 of which have still been active in 2025, I quickly realised that I cannot
+make decisions for such a large user base completely on my own. It might not
+be as large or fragmented as the NixOS community, due to the nature of the
+Fediverse, but so far we manage to work and come to decisions fine in our
+moderation group of seven people.
+
+I also have prior experience with the organisational distress of chasing
+after people, having been the organiser of the local Mannheim/Heidelberg
+NixOS and Rust meetups for close to two years now.
+
 #### What I have done
 
 - For close to two years now, I am organising the local NixOS meetup for
@@ -38,19 +52,17 @@ frustrating for them.
 
 #### What I will do
 
-- Help push forward reforms in the commit bit delegation process based
-on input from people of both sides of it, as well as from the
-experiences other Linux distributions have made (like I previously lined
-out in a [Discourse
-thread](https://discourse.nixos.org/t/regarding-the-nixpkgs-committers-interest-list/63332)).
+- Increase SC transparency by advocating for public logs of SC meetings
+as long as they do not contain confidential information, as well as
+installing SC board observers that can vouch for their correctness.
+- Support the new nixpkgs core team in pushing forward reforms in the
+commit bit delegation process, at the very least by giving them full
+power in doing so.
 - Encourage stronger exchange between our upstream Nix implementation
 and the different FOSS Nix implementations that have become an integral
 part of our community. I am of the firm believe that their existence is
 a net positive for our ecosystem and that our upstream implementation
 can only benefit from their input.
-- Increase SC transparency by advocating for public logs of SC meetings
-as long as they do not contain confidential information, as well as
-offering to be a direct contact person for concerns and questions.
 - Investigate how the SC can encourage diversity in foundation-financed
 events such as NixCon or sprints. The demographics at these events are
 not representative of the many people I got to know and become friends
