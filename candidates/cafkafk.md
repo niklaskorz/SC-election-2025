@@ -1,10 +1,10 @@
 ### Details
 
-**Name**: Christina Sørensen
-**GitHub handle**: `cafkafk`
-**Email address**: `christina@cafkafk.com`
-**Discourse handle**: `cafkafk`
-**Matrix handle**: `@cafkafk:fem.gg`
+* Name: Christina Sørensen
+* GitHub handle: `cafkafk`
+* Email address: `christina@cafkafk.com`
+* Discourse handle: `cafkafk`
+* Matrix handle: `@cafkafk:fem.gg`
 
 ### Conflict of interest disclosure:
 
